@@ -12,5 +12,4 @@ it will prompt the user for the selected language code, then it will start the p
 
 # improvement ideas
 
-making the translator ignore certain keywords\n
-adding a progress bar instead of printing the translated lines
+making the translator ignore certain keywords and adding a progress bar instead of printing the translated lines
